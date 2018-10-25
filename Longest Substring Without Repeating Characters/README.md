@@ -26,4 +26,6 @@ Explanation: The answer is "wke", with the length of 3.
 
              Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
              
-Runtime: 20 ms, faster than 79.96% of C++ online submissions for Longest Substring Without Repeating Characters.
+Solution 1:Runtime: 20 ms, faster than 79.96% of C++ online submissions for Longest Substring Without Repeating Characters.
+
+Shorter Solution: Runtime: 16 ms, faster than 92.33% of C++ online submissions for Longest Substring Without Repeating Characters.
