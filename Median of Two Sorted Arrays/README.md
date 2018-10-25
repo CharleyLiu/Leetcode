@@ -20,4 +20,6 @@ nums2 = [3, 4]
 
 The median is (2 + 3)/2 = 2.5
 
+https://leetcode.com/problems/median-of-two-sorted-arrays/
+
 StupidAns:Runtime: 40 ms, faster than 64.43% of C++ online submissions for Median of Two Sorted Arrays.
