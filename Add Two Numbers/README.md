@@ -11,3 +11,5 @@ Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
 
 https://leetcode.com/problems/add-two-numbers/
+
+Runtime: 28 ms, faster than 98.10% of C++ online submissions for Add Two Numbers.
