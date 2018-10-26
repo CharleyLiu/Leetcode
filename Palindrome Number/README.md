@@ -29,3 +29,4 @@ Coud you solve it without converting the integer to a string?
 https://leetcode.com/problems/palindrome-number/
 
 No string solution:Runtime: 148 ms, faster than 54.16% of C++ online submissions for Palindrome Number.
+Tricky solution: Runtime: 140 ms, faster than 62.53% of C++ online submissions for Palindrome Number.
