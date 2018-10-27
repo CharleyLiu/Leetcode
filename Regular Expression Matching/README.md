@@ -42,3 +42,7 @@ Input:
 s = "mississippi"
 p = "mis*is*p*."
 Output: false
+
+https://leetcode.com/problems/regular-expression-matching
+
+Stupid and Slow:Runtime: 1016 ms, faster than 0.99% of C++ online submissions for Regular Expression Matching.
