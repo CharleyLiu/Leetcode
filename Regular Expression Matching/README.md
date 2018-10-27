@@ -47,4 +47,5 @@ https://leetcode.com/problems/regular-expression-matching
 
 Stupid and Slow:Runtime: 1016 ms, faster than 0.99% of C++ online submissions for Regular Expression Matching.
 
-Slow:Runtime: 60 ms, faster than 24.52% of C++ online submissions for Regular Expression Matching.
+Slow(Recursive):Runtime: 60 ms, faster than 24.52% of C++ online submissions for Regular Expression Matching.
+Elegent(DP):Runtime: 8 ms, faster than 73.66% of C++ online submissions for Regular Expression Matching.
