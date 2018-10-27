@@ -1,3 +1,6 @@
+Bad Question!
+
+
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
 Symbol       Value
@@ -40,4 +43,8 @@ Input: 1994
 Output: "MCMXCIV"
 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
+https://leetcode.com/problems/integer-to-roman/
+
 Hard Code:Runtime: 60 ms, faster than 41.93% of C++ online submissions for Integer to Roman
+
+Shorter Hard Code:Runtime: 56 ms, faster than 49.57% of C++ online submissions for Integer to Roman.
