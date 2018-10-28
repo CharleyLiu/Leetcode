@@ -14,6 +14,8 @@ A solution set is:
   [-1, -1, 2]
 ]
 
+https://leetcode.com/problems/3sum/
+
 Slow.cpp: Runtime: 556 ms, faster than 5.04% of C++ online submissions for 3Sum.
 
 Good.cpp:Runtime: 68 ms, faster than 99.30% of C++ online submissions for 3Sum.
