@@ -15,3 +15,5 @@ A solution set is:
 ]
 
 Slow.cpp: Runtime: 556 ms, faster than 5.04% of C++ online submissions for 3Sum.
+
+Good.cpp:Runtime: 68 ms, faster than 99.30% of C++ online submissions for 3Sum.
