@@ -33,4 +33,4 @@ for (int i = 0; i < len; i++) {
     print(nums[i]);
 }
 
-Slow:Runtime: 36 ms, faster than 25.19% of C++ online submissions for Remove Duplicates from Sorted Array.
+Runtime: 16 ms, faster than 99.10% of C++ online submissions for Remove Duplicates from Sorted Array.
