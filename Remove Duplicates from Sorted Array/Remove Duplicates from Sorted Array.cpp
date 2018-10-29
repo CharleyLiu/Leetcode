@@ -5,12 +5,14 @@ public:
         if(len==0) return 0;
         if(len==1) return 1;
         int j=0;
+        int p=nums[0];
         for(int i=1;i<len;i++)
         {
-            if(nums[i]!=nums[j])
+            if(nums[i]==p) continue;
+            else
             {
                 j++;
-                nums[j]=nums[i];
+                p=nums[j]=nums[i];
             }
         }
         return j+1;
