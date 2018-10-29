@@ -18,4 +18,6 @@ For the purpose of this problem, we will return 0 when needle is an empty string
 
 https://leetcode.com/problems/implement-strstr/
 
-Slow:Runtime: 460 ms, faster than 17.38% of C++ online submissions for Implement strStr().
+Slow O(nm):Runtime: 460 ms, faster than 17.38% of C++ online submissions for Implement strStr().
+
+KMP O(m+n):Runtime: 4 ms, faster than 98.48% of C++ online submissions for Implement strStr().
