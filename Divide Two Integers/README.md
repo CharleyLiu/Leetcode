@@ -20,4 +20,5 @@ Assume we are dealing with an environment which could only store integers within
 
 https://leetcode.com/problems/divide-two-integers/
 
-Divide TWo Integers:Runtime: 12 ms, faster than 98.84% of C++ online submissions for Divide Two Integers.
+Divide Two Integers:Runtime: 12 ms, faster than 98.84% of C++ online submissions for Divide Two Integers.
+Faster: Most of time consumption is for the IO, so the runtime for this question actually a little bit meaningless. I run two algrithoms in VS with 100000 runs for each, adn the time cost of "Faster" is around 2/3 of "Divide Two Integers".
