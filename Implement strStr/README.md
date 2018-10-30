@@ -23,3 +23,5 @@ Slow O(nm):Runtime: 460 ms, faster than 17.38% of C++ online submissions for Imp
 KMP O(m+n):Runtime: 4 ms, faster than 98.48% of C++ online submissions for Implement strStr().
 
 Rabin-Karp(Theoritically, O(mn), practically, O(m+n)):Runtime: 4 ms, faster than 98.50% of C++ online submissions for Implement strStr().
+
+Boyer-Moore(Best Algrithom):Runtime: 4 ms, faster than 98.50% of C++ online submissions for Implement strStr().
