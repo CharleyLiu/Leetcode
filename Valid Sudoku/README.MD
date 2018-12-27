@@ -8,3 +8,5 @@ Each of the 9 3x3 sub-boxes of the grid must contain the digits 1-9 without repe
 https://leetcode.com/problems/valid-sudoku/
 
 Valid Sudoku(slow).cpp:Runtime: 28 ms, faster than 10.36% of C++ online submissions for Valid Sudoku.
+
+If use an array to simulate bitmap to check the validation, the program will be faster and in the average level.
