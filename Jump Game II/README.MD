@@ -13,3 +13,9 @@ Explanation: The minimum number of jumps to reach the last index is 2.
 Note:
 
 You can assume that you can always reach the last index.
+
+https://leetcode.com/problems/jump-game-ii/submissions/
+
+
+Runtime: 12 ms
+
