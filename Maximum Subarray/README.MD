@@ -11,4 +11,4 @@ If you have figured out the O(n) solution, try coding another solution using the
 
 https://leetcode.com/problems/maximum-subarray/
 
-Runtime: 8 ms
+Runtime: 8 ms, faster than 97.70% of C++ online submissions for Maximum Subarray.
