@@ -24,4 +24,4 @@ Explanation: There exist two distinct solutions to the 4-queens puzzle as shown 
 
 https://leetcode.com/problems/n-queens/
 
- N-Queens(dfs).cpp: Runtime: 8 ms
+ N-Queens(dfs).cpp: Runtime: 8 ms, faster than 46.91% of C++ online submissions for N-Queens.
