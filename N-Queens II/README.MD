@@ -23,4 +23,4 @@ Explanation: There are two distinct solutions to the 4-queens puzzle as shown be
 
 https://leetcode.com/problems/n-queens-ii/
 
-Runtime: 8 ms
+Runtime: 8 ms, faster than 23.60% of C++ online submissions for N-Queens II.
