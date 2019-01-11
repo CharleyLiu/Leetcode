@@ -14,3 +14,5 @@ Explanation: Intervals [1,4] and [4,5] are considered overlapping.
 https://leetcode.com/problems/merge-intervals/
 
 Slow.cpp:Runtime: 84 ms, faster than 2.69% of C++ online submissions for Merge Intervals.
+
+Merge Intervals.cpp: Runtime: 12 ms, faster than 97.58% of C++ online submissions for Merge Intervals.
