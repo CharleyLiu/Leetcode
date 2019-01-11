@@ -16,6 +16,5 @@ You can assume that you can always reach the last index.
 
 https://leetcode.com/problems/jump-game-ii/submissions/
 
-
-Runtime: 12 ms
+Runtime: 12 ms, faster than 96.69% of C++ online submissions for Jump Game II.
 
