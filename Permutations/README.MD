@@ -16,3 +16,5 @@ Output:
 https://leetcode.com/problems/permutations/
 
 Runtime: 12 ms
+
+Runtime: 12 ms, faster than 98.59% of C++ online submissions for Permutations.
