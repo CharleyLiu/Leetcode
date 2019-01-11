@@ -20,4 +20,4 @@ n is a 32-bit signed integer, within the range [−231, 231 − 1]
 
 https://leetcode.com/problems/powx-n/
 
-Runtime: 4 ms
+Runtime: 8 ms, faster than 94.70% of C++ online submissions for Pow(x, n).
