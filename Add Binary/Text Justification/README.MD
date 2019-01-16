@@ -51,3 +51,8 @@ Output:
   "everything  else  we",
   "do                  "
 ]
+
+https://leetcode.com/problems/text-justification/submissions/
+
+
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Text Justification.
