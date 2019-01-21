@@ -37,3 +37,5 @@ Output: "/a/b/c"
 https://leetcode.com/problems/simplify-path/
 
 Runtime: 16 ms, faster than 22.54% of C++ online submissions for Simplify Path.
+
+This methold is a naive stack. Use stl stack will be faster.
