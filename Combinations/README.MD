@@ -17,6 +17,10 @@ Bad.cpp:Runtime: 1060 ms, faster than 5.33% of C++ online submissions for Combin
 Memory Usage: 415.4 MB, less than 5.30% of C++ online submissions for Combinations.
 
 Most of memory and runtime comsuption is for vector operation, it could be faster if use new int array.
-This agrithom is a naive DP solution, with exponential complexity.
+This algorithm is a naive DP solution, with exponential complexity.
 
+Naivebacktracking.cpp:
+Runtime: 712 ms, faster than 5.33% of C++ online submissions for Combinations.
+Memory Usage: 191.2 MB, less than 5.30% of C++ online submissions for Combinations.
+This algorithm save some time on pass vector by value.
 
