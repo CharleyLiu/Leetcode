@@ -26,8 +26,9 @@ Memory Usage: 166.9 MB, less than 10.98% of C++ online submissions for Combinati
 This algorithom substitutes an parameter vector with an integer, which save space and time to construct vector.
 
 AddReference.cpp:
-Runtime: 84 ms, faster than 77.35% of C++ online submissions for Combinations.
-Memory Usage: 11.8 MB, less than 70.83% of C++ online submissions for Combinations.
+Runtime: 72 ms, faster than 87.67% of C++ online submissions for Combinations.
+Memory Usage: 11.6 MB, less than 96.21% of C++ online submissions for Combinations.
 
 This one use reference to pass parameter, save a lot of time and space.
+Use index to update the value of intermediate vector, which was push_back & pop_back.
 
