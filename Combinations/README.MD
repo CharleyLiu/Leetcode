@@ -23,3 +23,11 @@ Naivebacktracking.cpp:
 Runtime: 540 ms, faster than 12.49% of C++ online submissions for Combinations.
 Memory Usage: 166.9 MB, less than 10.98% of C++ online submissions for Combinations
 
+This algorithom substitutes an parameter vector with an integer, which save space and time to construct vector.
+
+AddReference.cpp:
+Runtime: 84 ms, faster than 77.35% of C++ online submissions for Combinations.
+Memory Usage: 11.8 MB, less than 70.83% of C++ online submissions for Combinations.
+
+This one use reference to pass parameter, save a lot of time and space.
+
