@@ -32,3 +32,8 @@ https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
 
 Runtime: 400 ms, faster than 93.36% of C++ online submissions for Populating Next Right Pointers in Each Node II.
 Memory Usage: 66.9 MB, less than 42.04% of C++ online submissions for Populating Next Right Pointers in Each Node II.
+
+O1space.cpp:
+
+Runtime: 408 ms, faster than 88.33% of C++ online submissions for Populating Next Right Pointers in Each Node II.
+Memory Usage: 66.6 MB, less than 73.99% of C++ online submissions for Populating Next Right Pointers in Each Node II.
