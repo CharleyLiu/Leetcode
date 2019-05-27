@@ -41,3 +41,8 @@ https://leetcode.com/problems/distinct-subsequences/
 
 Runtime: 8 ms, faster than 88.40% of C++ online submissions for Distinct Subsequences.
 Memory Usage: 14.3 MB, less than 46.62% of C++ online submissions for Distinct Subsequences.
+
+O1space.cpp:
+
+Runtime: 8 ms, faster than 88.40% of C++ online submissions for Distinct Subsequences.
+Memory Usage: 9 MB, less than 75.03% of C++ online submissions for Distinct Subsequences.
