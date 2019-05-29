@@ -34,3 +34,8 @@ topK.cpp:
 
 Runtime: 300 ms, faster than 40.95% of C++ online submissions for K Closest Points to Origin.
 Memory Usage: 49.4 MB, less than 40.94% of C++ online submissions for K Closest Points to Origin.
+
+use build-in nth_element.cpp:
+
+Runtime: 192 ms, faster than 99.15% of C++ online submissions for K Closest Points to Origin.
+Memory Usage: 39.7 MB, less than 77.39% of C++ online submissions for K Closest Points to Origin.
