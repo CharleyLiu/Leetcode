@@ -46,5 +46,5 @@ Explanation: You started from the point (0,0) and you can cut off the tree in (0
 
 https://leetcode.com/problems/cut-off-trees-for-golf-event/
 
-Runtime: 480 ms, faster than 82.49% of C++ online submissions for Cut Off Trees for Golf Event.
-Memory Usage: 154.9 MB, less than 29.64% of C++ online submissions for Cut Off Trees for Golf Event.
+Runtime: 472 ms, faster than 84.01% of C++ online submissions for Cut Off Trees for Golf Event.
+Memory Usage: 155.1 MB, less than 29.16% of C++ online submissions for Cut Off Trees for Golf Event
