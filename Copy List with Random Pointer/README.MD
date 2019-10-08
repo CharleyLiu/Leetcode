@@ -24,3 +24,7 @@ https://leetcode.com/problems/copy-list-with-random-pointer/
 
 Runtime: 28 ms, faster than 98.66% of C++ online submissions for Copy List with Random Pointer.
 Memory Usage: 26.5 MB, less than 5.01% of C++ online submissions for Copy List with Random Pointer.
+
+Redoitagain:
+Runtime: 24 ms, faster than 98.85% of C++ online submissions for Copy List with Random Pointer.
+Memory Usage: 22.5 MB, less than 9.52% of C++ online submissions for Copy List with Random Pointer.
