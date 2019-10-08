@@ -8,3 +8,7 @@ Output: 1->1->2->3->4->4
 https://leetcode.com/problems/merge-two-sorted-lists/
 
 Runtime: 8 ms, faster than 89.60% of C++ online submissions for Merge Two Sorted Lists.
+
+DoItAGain:
+Runtime: 8 ms, faster than 77.13% of C++ online submissions for Merge Two Sorted Lists.
+Memory Usage: 17.1 MB, less than 5.74% of C++ online submissions for Merge Two Sorted Lists.
