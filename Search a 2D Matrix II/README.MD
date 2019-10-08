@@ -21,3 +21,6 @@ https://leetcode.com/problems/search-a-2d-matrix-ii/
 
 Binary search.cpp(lg(n!)) Runtime: 196 ms, faster than 15.33% of C++ online submissions for Search a 2D Matrix II.
 Memory Usage: 12.9 MB, less than 86.67% of C++ online submissions for Search a 2D Matrix II.
+
+IteratePrune(O(m+n)): Runtime: 64 ms, faster than 84.67% of C++ online submissions for Search a 2D Matrix II.
+Memory Usage: 12.8 MB, less than 100.00% of C++ online submissions for Search a 2D Matrix II.
